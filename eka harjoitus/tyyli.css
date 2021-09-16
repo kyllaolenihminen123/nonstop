@@ -2,7 +2,29 @@ body
 {
   background-color: #808080;
 }
-img
+#kissa1
 {
+  clear: both;
   float: left;
+  margin: 10 20px;
+}
+#kissa2
+{
+  clear: both;
+  float: right;
+  margin: 20px;
+}
+#kissa3
+{
+  clear: both;
+  float: left;
+  margin: 50 20px;
+}
+p
+{
+  font-size: 26px;
+}
+h1
+{
+  font-size: 44px;
 }
