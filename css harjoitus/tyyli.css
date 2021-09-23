@@ -1,0 +1,98 @@
+body{
+  background-color: #E0FBFC;
+}
+
+
+
+
+header
+{
+height: 100px;
+background: #293241;
+}
+h1
+{
+color: #FFF;
+padding: 22px 0 0 20px;
+}
+nav
+{
+width: 500px;
+height: 20px;
+background: #EE6C4D;
+margin-left: 0px;
+}
+nav ul
+{
+margin: 0 0 0 -10px;
+}
+nav li
+{
+float: left;
+list-style-type: none;
+padding: 0 8px;
+}
+
+
+
+
+section
+{
+width: 700px;
+background: #98C1D9;
+margin-top: -20px;
+}
+h2
+{
+color: #FFF;
+padding: 10px 0 0 10px;
+}
+article
+{
+width: 700px;
+background: #3D5A80;
+}
+article p
+{
+  color: #FFF;
+  padding: 10px;
+}
+
+
+
+
+aside
+{
+width: 200px;
+height: 502px;
+background: #98C1D9;
+float: right;
+margin-top: 0px;
+}
+h3
+{
+color: #fff;
+padding: 10px 0 0 10px;
+}
+aside article
+{
+width: 200px;
+background: #3D5A80;
+color: #fff;
+}
+
+
+
+
+
+footer
+{
+height: 55px;
+background: #293241;
+margin-top: -6px;
+}
+  footer p
+  {
+    color: #BBBBBB;
+  padding: 10px 0 0 10px;
+  }
