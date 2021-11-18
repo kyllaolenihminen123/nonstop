@@ -1,0 +1,15 @@
+#piilota{
+  display = none;
+}
+
+label{
+  font-weight: bold;
+}
+form{
+  width: 60%;
+  margin: auto;
+  border: 2px dotted red;
+  border-radius: 30px;
+  padding: 20px;
+  background-color: gold;
+}
