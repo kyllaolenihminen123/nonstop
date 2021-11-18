@@ -13,3 +13,6 @@ form{
   padding: 20px;
   background-color: gold;
 }
+textarea{
+  width: 70%;
+}
