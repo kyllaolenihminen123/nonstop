@@ -1,18 +1,14 @@
-#piilota{
-  display = none;
-}
-
 label{
   font-weight: bold;
 }
 form{
-  width: 60%;
+  width: 30%;
   margin: auto;
-  border: 2px dotted red;
+  border: 2px dotted black;
   border-radius: 30px;
   padding: 20px;
-  background-color: gold;
+  background-color: lightgray;
 }
 textarea{
-  width: 70%;
+  width: 80%;
 }
